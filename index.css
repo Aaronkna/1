@@ -1,0 +1,81 @@
+.header{
+height:120px;
+background-color:#e8e9eb ;
+border: 2px #e8e9eb solid ;
+margin: auto;
+display: flex;
+justify-content: space-between;
+}
+body{margin: 0px;
+background-color: #d1d8e0}
+
+.texte1{
+  font-size: 30px;
+  margin-right: 50px;
+}
+.texte2{
+  font-size: 30px;
+  margin-right: 50px;
+}
+.texte3{
+  font-size: 30px;
+  margin-right: 50px;
+}
+
+.Logo{width: 140px;
+height:auto;
+float: left;
+margin-left:0px}
+
+.p{justify-content: space-between;
+display: flex;}
+
+@font-face {
+  font-family: oleo;
+  src: url(oleo.ttf);
+}
+.chiffres{font-family: oleo;
+  font-size: 33px;margin-right:20px;
+  color: red;white-space: 100%;margin: auto;
+}
+
+.image{width:400px;
+height: 500px;margin-left: 30px}
+
+@font-face {
+  font-family: Police2;
+  src: url(Police.ttf);
+}
+.infos{margin-top: 35px ;padding: 40px ;display: flex;
+  justify-content: space-evenly;
+  font-family: Police2;background-color: #d1d8e0;height: auto;;width: auto;text-align: justify;
+}
+
+  .Lebron{text-align: center;}
+
+.infosNBA{height: 400px;margin: auto;}
+
+.e {font-family: "oleo";
+  color: white;padding: 60px
+}
+
+.Bulls{width: 130px;height: auto;}
+
+.logos1{display: flex;justify-content: space-around;;width: 80%;margin: auto;}
+
+.logos2{display: flex;justify-content: space-around;;width: 80%;margin: auto;}
+
+.Logos{font-family: Gothic;background-color: #3e4347}
+
+@font-face {
+  font-family: "oleo";
+  src: url(oleo.ttf)}
+
+  .ch {width:170px;height: auto;margin-left: 50px; color: white}
+
+  .cha1{display: flex;justify-content: space-around;}
+
+.cha2{display: flex;justify-content: space-around;}
+
+.d{color: white}
+ .chaussures{background-color:#f55d5d}
